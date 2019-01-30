@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/magento2/magento2-sample-data/dev/tools/build-sample-data.php
