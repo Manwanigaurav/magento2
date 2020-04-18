@@ -594,6 +594,7 @@
                     <field id="settlement_reports_time" translate="label" type="time" sortOrder="100" showInDefault="1">
                         <label>Time of Day</label>
                         <config_path>paypal/fetch_reports/time</config_path>
+                        <backend_model>Magento\Paypal\Model\System\Config\Backend\Cron</backend_model>
                         <attribute type="shared">1</attribute>
                     </field>
                 </group>
